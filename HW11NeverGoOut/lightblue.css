@@ -1,2 +1,15 @@
-﻿body {
+﻿body 
+{
+    background-color:lightblue;
+}
+p
+{
+    font-family:Arial;
+}
+ul
+{
+    list-style-type: none;
+    text-align: center;
+    /*Fix this*/first-letter: uppercase;
+}
 }
