@@ -3,8 +3,8 @@
     background-color:darkblue;
     font-family:Arial;
 }
-/*The first task only involves changing fonts and colors - no layout or other more advanced CSS here! 
-    Use the HTML in sonnet18.html, but only change things in the <head>.*/
-/*change background color to dark blue*/
-/*change text to arial*/
-/*center align text sonnet*/
+.copyright
+{
+    font-size:10px;
+    font-style:italic;
+}
