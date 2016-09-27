@@ -2,3 +2,26 @@
 {
     background-color:burlywood;
 }
+p
+{
+    font-family:Helvetica;
+}
+ul
+{
+    list-style-type: none;
+    text-align: center;
+    font-style: italic;
+    font-family:Arial;
+}
+li::first-letter
+{
+    font-weight: 700;
+    font-size: 24px;
+    font-style: italic;
+    font-family: Arial;
+}
+.copyright
+{
+    text-align:center;
+    font-size:10px;
+}
