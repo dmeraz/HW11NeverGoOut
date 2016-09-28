@@ -1,7 +1,10 @@
 ﻿body
 {
-    background-color:darkblue;
-    font-family:Arial;
+    background-color: dodgerblue;
+}
+h1,p,li
+{
+        font-family: Verdana;
 }
 .copyright
 {
