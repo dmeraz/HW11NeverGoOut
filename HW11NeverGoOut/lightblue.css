@@ -14,8 +14,7 @@ ul
 }
 li::first-letter
 {
-    font-weight: 700;
-    font-size: 24px;
+    font-size: 30px;
     font-family: Arial;
 }
 
