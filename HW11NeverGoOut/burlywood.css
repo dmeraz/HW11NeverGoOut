@@ -2,6 +2,12 @@
 {
     background-color:burlywood;
 }
+h1
+{
+    /*font-style font-weight font-size/line-height font-family*/
+    text-align: center;
+    font:italic bold xx-large Impact;
+}
 p
 {
     font-size: 12px;
