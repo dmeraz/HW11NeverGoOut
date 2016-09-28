@@ -5,16 +5,21 @@
 h1
 {
     /*font-style font-weight font-size/line-height font-family*/
+    width: 600px;
     text-align: center;
     font:italic bold xx-large Impact;
-    border-top:dashed;
-    border-bottom:dashed;
+    border-top:dotted;
+    border-bottom:dotted;
+    background-color: white;
 }
 main
 {
+    width: 600px;
     border-bottom:dotted;
     border-left:dotted;
     border-right:dotted;
+    background-color: white;
+    margin: auto;
 }
 p
 {
